@@ -1,2 +1,2 @@
 # DevOps-Project
-Hosted on githud : https://poornachand1208.github.io/MicrosoftProject/
+Hosted on github : https://poornachand1208.github.io/MicrosoftProject/
